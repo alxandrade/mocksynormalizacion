@@ -1,0 +1,22 @@
+{
+  "name": "mocks-y-normalizacion",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "express": "^4.18.2",
+    "normalizr": "^3.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
